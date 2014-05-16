@@ -21,6 +21,24 @@
 		A1EBA5D6192693C100BDA837 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A1EBA5B8192693C100BDA837 /* UIKit.framework */; };
 		A1EBA5DE192693C100BDA837 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = A1EBA5DC192693C100BDA837 /* InfoPlist.strings */; };
 		A1EBA5E0192693C100BDA837 /* Pirate_AdventureTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A1EBA5DF192693C100BDA837 /* Pirate_AdventureTests.m */; };
+		A1EBA5EC1926A38D00BDA837 /* CCTile.m in Sources */ = {isa = PBXBuildFile; fileRef = A1EBA5EB1926A38D00BDA837 /* CCTile.m */; };
+		A1EBA5EF1926A45800BDA837 /* CCFactory.m in Sources */ = {isa = PBXBuildFile; fileRef = A1EBA5EE1926A45800BDA837 /* CCFactory.m */; };
+		A1EBA5FE1926B6A100BDA837 /* image1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A1EBA5F21926B6A100BDA837 /* image1.jpg */; };
+		A1EBA5FF1926B6A100BDA837 /* image2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A1EBA5F31926B6A100BDA837 /* image2.jpg */; };
+		A1EBA6001926B6A100BDA837 /* image3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A1EBA5F41926B6A100BDA837 /* image3.jpg */; };
+		A1EBA6011926B6A100BDA837 /* image4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A1EBA5F51926B6A100BDA837 /* image4.jpg */; };
+		A1EBA6021926B6A100BDA837 /* image5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A1EBA5F61926B6A100BDA837 /* image5.jpg */; };
+		A1EBA6031926B6A100BDA837 /* image6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A1EBA5F71926B6A100BDA837 /* image6.jpg */; };
+		A1EBA6041926B6A100BDA837 /* image7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A1EBA5F81926B6A100BDA837 /* image7.jpg */; };
+		A1EBA6051926B6A100BDA837 /* image8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A1EBA5F91926B6A100BDA837 /* image8.jpg */; };
+		A1EBA6061926B6A100BDA837 /* image9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A1EBA5FA1926B6A100BDA837 /* image9.jpg */; };
+		A1EBA6071926B6A100BDA837 /* image10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A1EBA5FB1926B6A100BDA837 /* image10.jpg */; };
+		A1EBA6081926B6A100BDA837 /* image11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A1EBA5FC1926B6A100BDA837 /* image11.jpg */; };
+		A1EBA6091926B6A100BDA837 /* image12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A1EBA5FD1926B6A100BDA837 /* image12.jpg */; };
+		A1EBA60C1926BD0D00BDA837 /* CCWeapon.m in Sources */ = {isa = PBXBuildFile; fileRef = A1EBA60B1926BD0D00BDA837 /* CCWeapon.m */; };
+		A1EBA60F1926BD7E00BDA837 /* CCArmor.m in Sources */ = {isa = PBXBuildFile; fileRef = A1EBA60E1926BD7E00BDA837 /* CCArmor.m */; };
+		A1EBA6121926BE0E00BDA837 /* CCCharacter.m in Sources */ = {isa = PBXBuildFile; fileRef = A1EBA6111926BE0E00BDA837 /* CCCharacter.m */; };
+		A1EBA6151926CBC100BDA837 /* CCBoss.m in Sources */ = {isa = PBXBuildFile; fileRef = A1EBA6141926CBC100BDA837 /* CCBoss.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +71,30 @@
 		A1EBA5DB192693C100BDA837 /* Pirate AdventureTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Pirate AdventureTests-Info.plist"; sourceTree = "<group>"; };
 		A1EBA5DD192693C100BDA837 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		A1EBA5DF192693C100BDA837 /* Pirate_AdventureTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Pirate_AdventureTests.m; sourceTree = "<group>"; };
+		A1EBA5EA1926A38D00BDA837 /* CCTile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCTile.h; sourceTree = "<group>"; };
+		A1EBA5EB1926A38D00BDA837 /* CCTile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCTile.m; sourceTree = "<group>"; };
+		A1EBA5ED1926A45800BDA837 /* CCFactory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCFactory.h; sourceTree = "<group>"; };
+		A1EBA5EE1926A45800BDA837 /* CCFactory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCFactory.m; sourceTree = "<group>"; };
+		A1EBA5F21926B6A100BDA837 /* image1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image1.jpg; sourceTree = "<group>"; };
+		A1EBA5F31926B6A100BDA837 /* image2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image2.jpg; sourceTree = "<group>"; };
+		A1EBA5F41926B6A100BDA837 /* image3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image3.jpg; sourceTree = "<group>"; };
+		A1EBA5F51926B6A100BDA837 /* image4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image4.jpg; sourceTree = "<group>"; };
+		A1EBA5F61926B6A100BDA837 /* image5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image5.jpg; sourceTree = "<group>"; };
+		A1EBA5F71926B6A100BDA837 /* image6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image6.jpg; sourceTree = "<group>"; };
+		A1EBA5F81926B6A100BDA837 /* image7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image7.jpg; sourceTree = "<group>"; };
+		A1EBA5F91926B6A100BDA837 /* image8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image8.jpg; sourceTree = "<group>"; };
+		A1EBA5FA1926B6A100BDA837 /* image9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image9.jpg; sourceTree = "<group>"; };
+		A1EBA5FB1926B6A100BDA837 /* image10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image10.jpg; sourceTree = "<group>"; };
+		A1EBA5FC1926B6A100BDA837 /* image11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image11.jpg; sourceTree = "<group>"; };
+		A1EBA5FD1926B6A100BDA837 /* image12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image12.jpg; sourceTree = "<group>"; };
+		A1EBA60A1926BD0D00BDA837 /* CCWeapon.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCWeapon.h; sourceTree = "<group>"; };
+		A1EBA60B1926BD0D00BDA837 /* CCWeapon.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCWeapon.m; sourceTree = "<group>"; };
+		A1EBA60D1926BD7E00BDA837 /* CCArmor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCArmor.h; sourceTree = "<group>"; };
+		A1EBA60E1926BD7E00BDA837 /* CCArmor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCArmor.m; sourceTree = "<group>"; };
+		A1EBA6101926BE0E00BDA837 /* CCCharacter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCCharacter.h; sourceTree = "<group>"; };
+		A1EBA6111926BE0E00BDA837 /* CCCharacter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCCharacter.m; sourceTree = "<group>"; };
+		A1EBA6131926CBC100BDA837 /* CCBoss.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCBoss.h; sourceTree = "<group>"; };
+		A1EBA6141926CBC100BDA837 /* CCBoss.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCBoss.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,6 +160,7 @@
 				A1EBA5C9192693C100BDA837 /* CCViewController.h */,
 				A1EBA5CA192693C100BDA837 /* CCViewController.m */,
 				A1EBA5CC192693C100BDA837 /* Images.xcassets */,
+				A1EBA5E91926A35200BDA837 /* Model */,
 				A1EBA5BB192693C100BDA837 /* Supporting Files */,
 			);
 			path = "Pirate Adventure";
@@ -126,6 +169,7 @@
 		A1EBA5BB192693C100BDA837 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				A1EBA5F11926B4D300BDA837 /* imagesForBackground */,
 				A1EBA5BC192693C100BDA837 /* Pirate Adventure-Info.plist */,
 				A1EBA5BD192693C100BDA837 /* InfoPlist.strings */,
 				A1EBA5C0192693C100BDA837 /* main.m */,
@@ -150,6 +194,52 @@
 				A1EBA5DC192693C100BDA837 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		A1EBA5E91926A35200BDA837 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				A1EBA5F01926A47100BDA837 /* Factory */,
+				A1EBA5EA1926A38D00BDA837 /* CCTile.h */,
+				A1EBA5EB1926A38D00BDA837 /* CCTile.m */,
+				A1EBA60A1926BD0D00BDA837 /* CCWeapon.h */,
+				A1EBA60B1926BD0D00BDA837 /* CCWeapon.m */,
+				A1EBA60D1926BD7E00BDA837 /* CCArmor.h */,
+				A1EBA60E1926BD7E00BDA837 /* CCArmor.m */,
+				A1EBA6101926BE0E00BDA837 /* CCCharacter.h */,
+				A1EBA6111926BE0E00BDA837 /* CCCharacter.m */,
+				A1EBA6131926CBC100BDA837 /* CCBoss.h */,
+				A1EBA6141926CBC100BDA837 /* CCBoss.m */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		A1EBA5F01926A47100BDA837 /* Factory */ = {
+			isa = PBXGroup;
+			children = (
+				A1EBA5ED1926A45800BDA837 /* CCFactory.h */,
+				A1EBA5EE1926A45800BDA837 /* CCFactory.m */,
+			);
+			name = Factory;
+			sourceTree = "<group>";
+		};
+		A1EBA5F11926B4D300BDA837 /* imagesForBackground */ = {
+			isa = PBXGroup;
+			children = (
+				A1EBA5F21926B6A100BDA837 /* image1.jpg */,
+				A1EBA5F31926B6A100BDA837 /* image2.jpg */,
+				A1EBA5F41926B6A100BDA837 /* image3.jpg */,
+				A1EBA5F51926B6A100BDA837 /* image4.jpg */,
+				A1EBA5F61926B6A100BDA837 /* image5.jpg */,
+				A1EBA5F71926B6A100BDA837 /* image6.jpg */,
+				A1EBA5F81926B6A100BDA837 /* image7.jpg */,
+				A1EBA5F91926B6A100BDA837 /* image8.jpg */,
+				A1EBA5FA1926B6A100BDA837 /* image9.jpg */,
+				A1EBA5FB1926B6A100BDA837 /* image10.jpg */,
+				A1EBA5FC1926B6A100BDA837 /* image11.jpg */,
+				A1EBA5FD1926B6A100BDA837 /* image12.jpg */,
+			);
+			name = imagesForBackground;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -230,6 +320,18 @@
 			buildActionMask = 2147483647;
 			files = (
 				A1EBA5CD192693C100BDA837 /* Images.xcassets in Resources */,
+				A1EBA6041926B6A100BDA837 /* image7.jpg in Resources */,
+				A1EBA6021926B6A100BDA837 /* image5.jpg in Resources */,
+				A1EBA6071926B6A100BDA837 /* image10.jpg in Resources */,
+				A1EBA6051926B6A100BDA837 /* image8.jpg in Resources */,
+				A1EBA5FF1926B6A100BDA837 /* image2.jpg in Resources */,
+				A1EBA5FE1926B6A100BDA837 /* image1.jpg in Resources */,
+				A1EBA6001926B6A100BDA837 /* image3.jpg in Resources */,
+				A1EBA6011926B6A100BDA837 /* image4.jpg in Resources */,
+				A1EBA6081926B6A100BDA837 /* image11.jpg in Resources */,
+				A1EBA6031926B6A100BDA837 /* image6.jpg in Resources */,
+				A1EBA6091926B6A100BDA837 /* image12.jpg in Resources */,
+				A1EBA6061926B6A100BDA837 /* image9.jpg in Resources */,
 				A1EBA5BF192693C100BDA837 /* InfoPlist.strings in Resources */,
 				A1EBA5C8192693C100BDA837 /* Main.storyboard in Resources */,
 			);
@@ -251,8 +353,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				A1EBA5C5192693C100BDA837 /* CCAppDelegate.m in Sources */,
+				A1EBA5EF1926A45800BDA837 /* CCFactory.m in Sources */,
 				A1EBA5C1192693C100BDA837 /* main.m in Sources */,
+				A1EBA6121926BE0E00BDA837 /* CCCharacter.m in Sources */,
 				A1EBA5CB192693C100BDA837 /* CCViewController.m in Sources */,
+				A1EBA5EC1926A38D00BDA837 /* CCTile.m in Sources */,
+				A1EBA60F1926BD7E00BDA837 /* CCArmor.m in Sources */,
+				A1EBA60C1926BD0D00BDA837 /* CCWeapon.m in Sources */,
+				A1EBA6151926CBC100BDA837 /* CCBoss.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -457,6 +565,7 @@
 				A1EBA5E5192693C100BDA837 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A1EBA5E6192693C100BDA837 /* Build configuration list for PBXNativeTarget "Pirate AdventureTests" */ = {
 			isa = XCConfigurationList;
@@ -465,6 +574,7 @@
 				A1EBA5E8192693C100BDA837 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
